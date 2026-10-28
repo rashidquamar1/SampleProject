@@ -2,7 +2,3 @@ python-dotnet
 fastapi
 uvicorn[standard]
 httpx2
-email-validator
-pwdlib[argon2]
-PyJWT
-python-multipart
